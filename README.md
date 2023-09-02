@@ -1,4 +1,4 @@
 # TokuApp
 
-App to learning toku language
+App to learning toku language using flutter
 
